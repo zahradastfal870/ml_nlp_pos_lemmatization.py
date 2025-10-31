@@ -21,3 +21,19 @@ The code file: **ml_nlp_pos_lemmatization.py**
 ## Input Example
 ```text
 "John enjoys playing football while Mary loves reading books in the library."
+
+## Expected Output
+Filtered lemmas (verbs & nouns only): ['John', 'enjoy', 'play', 'football', 'Mary', 'love', 'read', 'book', 'library']
+As text: John enjoy play football Mary love read book library
+
+## How to Run
+1. **Install spaCy**
+   ```bash
+   pip install spacy
+   python -m spacy download en_core_web_sm
+
+2-Run the script
+python ml_nlp_pos_lemmatization.py
+
+
+
