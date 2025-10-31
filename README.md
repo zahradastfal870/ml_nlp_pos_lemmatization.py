@@ -1,4 +1,4 @@
-# ML NLP POS Lemmatization (Part C – Q1)
+# ML NLP POS Lemmatization
 
 Author: Zahra Dastfal  
 Course: DSA 5600 — Machine Learning  
