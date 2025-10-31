@@ -1,6 +1,7 @@
 # ML NLP POS Lemmatization
 
 Author: Zahra Dastfal  
+Student Number: 700777425
 Course: DSA 5600 — Machine Learning  
 Assignment: Homework 4 — Part C (Coding)
 
